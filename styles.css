@@ -1,0 +1,32 @@
+body {
+    font:20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7
+
+}
+.navbar {
+padding:15px 0 ;
+border:0;
+border-radius: 0;
+font-size: 12px;
+letter-spacing: 5px;
+}
+.navbar-nav li:hover{
+    color:#1abc9c
+}
+.bg-1 {
+    background-color:turquoise ;
+}
+.bg-2 {
+    background-color: gray;
+    color:white
+}
+.bg-3{
+    background-color: gray;
+    color:rgba(94, 87, 87, 0.333)
+
+}
+.bg-4 {
+    background-color: whitesmoke;
+    color:#ffff;
+}
